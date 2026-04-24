@@ -4,6 +4,7 @@ import p_img2_2 from './p_img2_2.png'
 import p_img2_3 from './p_img2_3.png'
 import p_img2_4 from './p_img2_4.png'
 import p_img3 from './p_img3.png'
+import p_img3removebg from '/p_img3removebg.png'
 import p_img4 from './p_img4.png'
 import p_img5 from './p_img5.png'
 import p_img6 from './p_img6.png'
@@ -75,6 +76,9 @@ import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
 
 export const assets = {
+    p_img3removebg,
+    p_img3,
+    p_img6,
     logo,
     hero_img,
     cart_icon,
